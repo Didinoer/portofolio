@@ -31,7 +31,7 @@ export default function Home() {
 				<div className="border-1 border-white w-[100%]  mt-[50px]"></div>
 				<BackgroundVideoLayout
 					videoSrc={"/video/bgvid1.mp4"}
-					height="md:h-screen">
+					height="md:h-[1200px]">
 					<Onscroll1>
 						<WorkExperience propimg={"/image/mrg2.png"} />
 					</Onscroll1>
