@@ -42,7 +42,7 @@ export default function SidebarNavbarCombo({
 					sidebarOpen ? "ml-64" : "ml-0"
 				}`}>
 				{/* Navbar */}
-				<div className="bg-slate-700 shadow-md px-4 py-4 flex items-center justify-between h-md-[200px]">
+				<div className="bg-gradient-to-r from-blue-500 via-blue-800 to-purple-500 shadow-md px-4 py-4 flex items-center justify-between h-md-[200px]">
 					<div className="flex items-center space-x-4">
 						{/* Toggle Sidebar Button */}
 						<button
