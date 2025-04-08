@@ -63,7 +63,7 @@ export default function SidebarNavbarCombo({
 					{children}
 				</div> */}
 				<div
-					className={`transition-all h-full duration-300  bg-gradient-to-r from-blue-500 via-blue-800 to-purple-500 ${
+					className={`transition-all h-full w-full duration-300  bg-gradient-to-r from-blue-500 via-blue-800 to-purple-500 ${
 						sidebarOpen
 							? "hidden md:block bg-gradient-to-r from-blue-500 via-blue-800 to-purple-500"
 							: "block"

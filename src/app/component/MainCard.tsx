@@ -14,7 +14,7 @@ export default function MainCard({ propimg }: props) {
 	return (
 		<>
 			<div className="container rounded-lg mt-4 ">
-				<div className="grid grid-cols-1 md:grid-cols-2 gap-2 ">
+				<div className="grid grid-cols-1 md:grid-cols-2  ">
 					{/* Card 1 with Glow Effect */}
 					<div className="relative flex justify-center items-center">
 						<a
